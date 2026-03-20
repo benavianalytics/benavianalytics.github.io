@@ -2,7 +2,7 @@
 # 📊 Workforce Intelligence Transformation  
 ### Executive HR Analytics Case Study  
 
-> *Note: All metrics are masked or slightly adjusted to preserve client confidentiality while maintaining analytical integrity.*
+> *Note: All metrics are masked or slightly adjusted to preserve company confidentiality while maintaining analytical integrity.*
 
 ---
 
