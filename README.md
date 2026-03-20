@@ -116,4 +116,4 @@ Shifted retention conversations from reactive to predictive workforce management
 
 ## 🔒 Data Confidentiality
 
-All figures are masked or slightly adjusted to preserve client confidentiality while demonstrating analytical capability and solution structure.
+All figures are masked or slightly adjusted to preserve company confidentiality while demonstrating analytical capability and solution structure.
